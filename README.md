@@ -1,7 +1,6 @@
 ### Hi there 👋
-<head>
-<link rel='stylesheet' href='./style.css'>
-</head>
+<link href="style.css" rel="stylesheet"></link>
+<body>
 <div >
   <img alt= 'project-capture' src="https://gh-profile-readme.s3.amazonaws.com/knews.png" height='200px' >
   <div>
@@ -26,6 +25,7 @@
      This is a project
   </div>
 </div>
+</body>
 
 <!--
 **johnshivers3/johnshivers3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
