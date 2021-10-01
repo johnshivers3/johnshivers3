@@ -1,10 +1,37 @@
 ### Hi there 👋
+<head>
+<link rel='stylesheet' href='style.css'></link>
+</head>
+<div >
+  <img alt= 'project-capture' src="https://gh-profile-readme.s3.amazonaws.com/knews.png" height='200px' >
+  <div>
+     This is a project
+  </div>
+</div>
+<div >
+  <img alt= 'project-capture' src="https://gh-profile-readme.s3.amazonaws.com/pigout.png" height='200px' >
+  <div>
+     This is a project
+  </div>
+</div>
+<div >
+  <img alt= 'project-capture' src="https://gh-profile-readme.s3.amazonaws.com/pbrain.png" height='200px' >
+  <div>
+     This is a project
+  </div>
+</div>
+<div >
+  <img alt= 'project-capture' src="https://gh-profile-readme.s3.amazonaws.com/goodfilms.png" height='200px' >
+  <div>
+     This is a project
+  </div>
+</div>
 
 <!--
 **johnshivers3/johnshivers3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![Knews App](https://portfolio-john-shivers.s3.us-east-1.amazonaws.com/img/knews-app.gif)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
