@@ -1,6 +1,6 @@
 ### Hi there 👋
 <head>
-<link rel='stylesheet' href='style.css'></link>
+<link rel='stylesheet' href='./style.css'></link>
 </head>
 <div >
   <img alt= 'project-capture' src="https://gh-profile-readme.s3.amazonaws.com/knews.png" height='200px' >
