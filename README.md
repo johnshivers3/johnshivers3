@@ -1,30 +1,48 @@
 ### Hi there 👋
 # Projects
- 
+  <h2>Knews</h2> 
   <a href='https://github.com/johnshivers3/knews'>
-   <h2>Knews</h2>
+   Repository
+  </a>
+  <a href='https://knews-app.herokuapp.com/'
+     rel='noopener noreferrer'
+     target="_blank"
+     >
+   Live Site
   </a>
   <img alt='project-capture' src="https://gh-profile-readme.s3.amazonaws.com/knews.png" height='200px' >
 
  
-
+  <h2>PigOut</h2>
   <a href='https://github.com/johnshivers3/PigOut'>
-   <h2>PigOut</h2>
+   Repository
   </a>
+    <a href='https://pigout.herokuapp.com/'
+     rel='noopener noreferrer'
+     target="_blank"
+     >
   <img alt='project-capture' src="https://gh-profile-readme.s3.amazonaws.com/pigout.png" height='200px' >
 
 
-
+  <h2>PBrain</h2>
   <a href='https://github.com/rzh150030/group_project_2_Brainscape_clone'>
-    <h2>PBrain</h2>
+   Repository
   </a>
+   <a href='https://pbrain.herokuapp.com/'
+     rel='noopener noreferrer'
+     target="_blank"
+     >
   <img alt='project-capture' src="https://gh-profile-readme.s3.amazonaws.com/pbrain.png" height='200px' >
 
   
-
+ <h2>GoodFilms</h2>
   <a href="https://github.com/johnshivers3/good-films-clone">
-  <h2>GoodFilms</h2>
+   Repository
   </a>
+      <a href='https://goodfilms.herokuapp.com/'
+     rel='noopener noreferrer'
+     target="_blank"
+     >
   <img alt='project-capture' src="https://gh-profile-readme.s3.amazonaws.com/goodfilms.png" height='200px' >
 
 
