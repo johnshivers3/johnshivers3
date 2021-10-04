@@ -1,7 +1,9 @@
-<!-- ### Hi there 👋
-# Projects -->
+### Hi there 👋
+<!--
 
-  <h2>Knews</h2>
+# Projects
+
+  <h1>Knews</h1>
   <div>
     <a href='https://github.com/johnshivers3/knews'>
       Repository
@@ -16,19 +18,22 @@
       <span style="display:block">
 
 ## Technologies
-
-### React![icons8-react-100](https://user-images.githubusercontent.com/77175831/128655462-ae9673cb-67d2-4df3-bc52-2c43b6419834.png height='50px')PostgreSQL![icons8-postgresql-100](https://user-images.githubusercontent.com/77175831/128655482-b4743976-babd-4fc9-a2a3-8d2ef6c616d6.png height='50px')Flask ![icons8-flask-100 (2)](https://user-images.githubusercontent.com/77175831/128655684-3e655dc3-becd-4a56-9576-30fc8e5fdf8f.png height='50px')Python ![icons8-python-100](https://user-images.githubusercontent.com/77175831/128655745-4e1ea395-cc70-4a82-a959-bd067d4950e6.png height='50px')JavaScript![icons8-javascript-100](https://user-images.githubusercontent.com/77175831/128655574-0026d8d0-3550-4bc0-b322-eea219812c3c.png height='50px')
+  React![icons8-react-100](https://user-images.githubusercontent.com/77175831/128655462-ae9673cb-67d2-4df3-bc52-2c43b6419834.png?v=4&s=50) 
+  PostgreSQL![icons8-postgresql-100](https://user-images.githubusercontent.com/77175831/128655482-b4743976-babd-4fc9-a2a3-8d2ef6c616d6.png?v=4&s=50) 
+  Flask ![icons8-flask-100 (2)](https://user-images.githubusercontent.com/77175831/128655684-3e655dc3-becd-4a56-9576-30fc8e5fdf8f.png?v=4&s=50) 
+  Python ![icons8-python-100](https://user-images.githubusercontent.com/77175831/128655745-4e1ea395-cc70-4a82-a959-bd067d4950e6.png?v=4&s=50) 
+  JavaScript![icons8-javascript-100](https://user-images.githubusercontent.com/77175831/128655574-0026d8d0-3550-4bc0-b322-eea219812c3c.png?v=4&s=50)
 
 ## Motivations
 
-- Knews App was born out of my desire to only see good news when I open a news app.
-- Building a tool that uses open source data to find solutions has been a challenge I've been exctied to take on.
+  - Knews App was born out of my desire to only see good news when I open a news app.
+  - Building a tool that uses open source data to find solutions has been a challenge I've been exctied to take on.
 
       </span>
 
     </div>
 
-    <h2>PigOut</h2>
+    <h1>PigOut</h1>
   <div>
     <a href='https://github.com/johnshivers3/PigOut'>
       Repository
@@ -40,7 +45,21 @@
       Live Site
     </a>
     <img alt='project-capture' src="https://gh-profile-readme.s3.amazonaws.com/pigout.png" height='200px' >
+      <span style="display:block">
 
+## Technologies
+  React![icons8-react-100](https://user-images.githubusercontent.com/77175831/128655462-ae9673cb-67d2-4df3-bc52-2c43b6419834.png?v=4&s=50) 
+  PostgreSQL![icons8-postgresql-100](https://user-images.githubusercontent.com/77175831/128655482-b4743976-babd-4fc9-a2a3-8d2ef6c616d6.png?v=4&s=50) 
+  Flask ![icons8-flask-100 (2)](https://user-images.githubusercontent.com/77175831/128655684-3e655dc3-becd-4a56-9576-30fc8e5fdf8f.png?v=4&s=50) 
+  Python ![icons8-python-100](https://user-images.githubusercontent.com/77175831/128655745-4e1ea395-cc70-4a82-a959-bd067d4950e6.png?v=4&s=50) 
+  JavaScript![icons8-javascript-100](https://user-images.githubusercontent.com/77175831/128655574-0026d8d0-3550-4bc0-b322-eea219812c3c.png?v=4&s=50)
+
+## Motivations
+
+  - Knews App was born out of my desire to only see good news when I open a news app.
+  - Building a tool that uses open source data to find solutions has been a challenge I've been exctied to take on.
+
+      </span>
 </div>
 
   <h2>PBrain</h2>
@@ -55,7 +74,21 @@
     Live Site
   </a>
   <img alt='project-capture' src="https://gh-profile-readme.s3.amazonaws.com/pbrain.png" height='200px' >
+      <span style="display:block">
 
+## Technologies
+  React![icons8-react-100](https://user-images.githubusercontent.com/77175831/128655462-ae9673cb-67d2-4df3-bc52-2c43b6419834.png?v=4&s=50) 
+  PostgreSQL![icons8-postgresql-100](https://user-images.githubusercontent.com/77175831/128655482-b4743976-babd-4fc9-a2a3-8d2ef6c616d6.png?v=4&s=50) 
+  Flask ![icons8-flask-100 (2)](https://user-images.githubusercontent.com/77175831/128655684-3e655dc3-becd-4a56-9576-30fc8e5fdf8f.png?v=4&s=50) 
+  Python ![icons8-python-100](https://user-images.githubusercontent.com/77175831/128655745-4e1ea395-cc70-4a82-a959-bd067d4950e6.png?v=4&s=50) 
+  JavaScript![icons8-javascript-100](https://user-images.githubusercontent.com/77175831/128655574-0026d8d0-3550-4bc0-b322-eea219812c3c.png?v=4&s=50)
+
+## Motivations
+
+  - Knews App was born out of my desire to only see good news when I open a news app.
+  - Building a tool that uses open source data to find solutions has been a challenge I've been exctied to take on.
+
+      </span>
 </div>
 
   <h2>GoodFilms</h2>
@@ -70,9 +103,22 @@
     Live Site
   </a>
   <img alt='project-capture' src="https://gh-profile-readme.s3.amazonaws.com/goodfilms.png" height='200px' >
+      <span style="display:block">
 
+## Technologies
+  React![icons8-react-100](https://user-images.githubusercontent.com/77175831/128655462-ae9673cb-67d2-4df3-bc52-2c43b6419834.png?v=4&s=50) 
+  PostgreSQL![icons8-postgresql-100](https://user-images.githubusercontent.com/77175831/128655482-b4743976-babd-4fc9-a2a3-8d2ef6c616d6.png?v=4&s=50) 
+  Flask ![icons8-flask-100 (2)](https://user-images.githubusercontent.com/77175831/128655684-3e655dc3-becd-4a56-9576-30fc8e5fdf8f.png?v=4&s=50) 
+  Python ![icons8-python-100](https://user-images.githubusercontent.com/77175831/128655745-4e1ea395-cc70-4a82-a959-bd067d4950e6.png?v=4&s=50) 
+  JavaScript![icons8-javascript-100](https://user-images.githubusercontent.com/77175831/128655574-0026d8d0-3550-4bc0-b322-eea219812c3c.png?v=4&s=50)
+
+## Motivations
+
+  - Knews App was born out of my desire to only see good news when I open a news app.
+  - Building a tool that uses open source data to find solutions has been a challenge I've been exctied to take on.
+
+      </span>
 </div>
-<!--
 **johnshivers3/johnshivers3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
