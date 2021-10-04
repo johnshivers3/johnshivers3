@@ -1,25 +1,29 @@
 ### Hi there 👋
-<!--
-  <h2>Knews</h2>
+# Projects
+ 
   <a href='https://github.com/johnshivers3/knews'>
+   <h2>Knews</h2>
   </a>
   <img alt='project-capture' src="https://gh-profile-readme.s3.amazonaws.com/knews.png" height='200px' >
 
-  <h2>PigOut</h2>
+ 
 
   <a href='https://github.com/johnshivers3/PigOut'>
+   <h2>PigOut</h2>
   </a>
   <img alt='project-capture' src="https://gh-profile-readme.s3.amazonaws.com/pigout.png" height='200px' >
 
-  <h2>PBrain</h2>
+
 
   <a href='https://github.com/rzh150030/group_project_2_Brainscape_clone'>
+    <h2>PBrain</h2>
   </a>
   <img alt='project-capture' src="https://gh-profile-readme.s3.amazonaws.com/pbrain.png" height='200px' >
 
-  <h2>GoodFilms</h2>
+  
 
   <a href="https://github.com/johnshivers3/good-films-clone">
+  <h2>GoodFilms</h2>
   </a>
   <img alt='project-capture' src="https://gh-profile-readme.s3.amazonaws.com/goodfilms.png" height='200px' >
 
