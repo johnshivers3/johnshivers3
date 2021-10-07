@@ -1,5 +1,5 @@
-### Hi there 👋 
-## Check out some of my recent projects below. I'd love feedback!
+# Hi there 👋 
+Check out some of my recent projects below. I'd love feedback!
 
 <h1>Knews</h1>
 <div>
