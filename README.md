@@ -47,7 +47,7 @@ Live Site
 React![icons8-react-100](https://user-images.githubusercontent.com/77175831/128655462-ae9673cb-67d2-4df3-bc52-2c43b6419834.png?v=4&s=50) 
 PostgreSQL![icons8-postgresql-100](https://user-images.githubusercontent.com/77175831/128655482-b4743976-babd-4fc9-a2a3-8d2ef6c616d6.png?v=4&s=50) 
 Express / NodeJS ![icons8-flask-100 (2)](https://portfolio-john-shivers.s3.amazonaws.com/img/Favorites/icons8-node-js.svg?v=4&s=50) 
-JavaScript![icons8-javascript-100](https://portfolio-john-shivers.s3.amazonaws.com/img/Favorites/icons8-javascript-logo-100.png?v=4&s=50)
+JavaScript![icons8-javascript-100](https://user-images.githubusercontent.com/77175831/128655574-0026d8d0-3550-4bc0-b322-eea219812c3c.png?v=4&s=50)
 </span>
 </div>
 </br>
