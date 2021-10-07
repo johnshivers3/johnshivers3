@@ -28,7 +28,7 @@ JavaScript![icons8-javascript-100](https://user-images.githubusercontent.com/771
 </span>
 
 </div>
-
+</br>
 <h1>PigOut</h1>
 <div>
 <a href='https://github.com/johnshivers3/PigOut'>
@@ -50,6 +50,7 @@ Express / NodeJS ![icons8-flask-100 (2)](https://portfolio-john-shivers.s3.amazo
 JavaScript![icons8-javascript-100](https://portfolio-john-shivers.s3.amazonaws.com/img/Favorites/icons8-javascript-logo-100.png?v=4&s=50)
 </span>
 </div>
+</br>
 
 <h2>PBrain</h2>
 <div>
@@ -74,6 +75,7 @@ JavaScript![icons8-javascript-100](https://user-images.githubusercontent.com/771
 
 </span>
 </div>
+</br>
 
 <h2>GoodFilms</h2>
 <div>
