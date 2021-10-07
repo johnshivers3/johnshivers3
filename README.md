@@ -1,7 +1,5 @@
-### Hi there 👋
-
-
-# Projects
+### Hi there 👋 
+## Check out some of my recent projects below. I'd love feedback!
 
 <h1>Knews</h1>
 <div>
@@ -52,7 +50,7 @@ JavaScript![icons8-javascript-100](https://user-images.githubusercontent.com/771
 </div>
 </br>
 
-<h2>PBrain</h2>
+<h1>PBrain</h1>
 <div>
 <a href='https://github.com/rzh150030/group_project_2_Brainscape_clone'>
 Repository
@@ -77,7 +75,7 @@ JavaScript![icons8-javascript-100](https://user-images.githubusercontent.com/771
 </div>
 </br>
 
-<h2>GoodFilms</h2>
+<h1>GoodFilms</h1>
 <div>
 <a href="https://github.com/johnshivers3/good-films-clone">
 Repository
