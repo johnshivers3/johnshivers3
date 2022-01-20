@@ -1,9 +1,6 @@
 # Hi there 👋 
 Check out some of my recent projects below. I'd love feedback!
 
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnshivers3&layout=compact&langs_count=10)](https://github.com/johnshivers3/github-readme-stats)
-# ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnshivers3&count_private=true&show_icons=true)
-
 <h1>Knews</h1>
 <div>
 <a href='https://github.com/johnshivers3/knews'>
@@ -78,25 +75,6 @@ JavaScript![icons8-javascript-100](https://user-images.githubusercontent.com/771
 </div>
 </br>
 
-<h1>GoodFilms</h1>
-<div>
-<a href="https://github.com/johnshivers3/good-films-clone">
-Repository
-</a>
-<a href='https://goodfilms.herokuapp.com/'
-rel='noopener noreferrer'
-target="_blank"
->
-Live Site
-</a>
-<img alt='project-capture' src="https://gh-profile-readme.s3.amazonaws.com/goodfilms.png" height='200px' >
-<span style="display:block">
-<h2>GoodFIlms clones the functionality of IMDB.com by interfacing with a custom API.</h2>
-
-PostgreSQL![icons8-postgresql-100](https://user-images.githubusercontent.com/77175831/128655482-b4743976-babd-4fc9-a2a3-8d2ef6c616d6.png?v=4&s=50) 
-JavaScript![icons8-javascript-100](https://user-images.githubusercontent.com/77175831/128655574-0026d8d0-3550-4bc0-b322-eea219812c3c.png?v=4&s=50)
-Express / NodeJS ![icons8-flask-100 (2)](https://portfolio-john-shivers.s3.amazonaws.com/img/Favorites/icons8-node-js.svg?v=4&s=50) 
-
-</span>
-</div>  
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnshivers3&layout=compact&langs_count=10)](https://github.com/johnshivers3/github-readme-stats)
+# ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnshivers3&count_private=true&show_icons=true)
 
