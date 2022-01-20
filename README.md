@@ -1,6 +1,11 @@
 # Hi there 👋 
 Check out some of my recent projects below. I'd love feedback!
 
+
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnshivers3&langs_count=10)](https://github.com/johnshivers3/github-readme-stats)
+# ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnshivers3&count_private=true&show_icons=true)
+
+
 <h1>Knews</h1>
 <div>
 <a href='https://github.com/johnshivers3/knews'>
@@ -74,7 +79,3 @@ JavaScript![icons8-javascript-100](https://user-images.githubusercontent.com/771
 </span>
 </div>
 </br>
-
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnshivers3&langs_count=10)](https://github.com/johnshivers3/github-readme-stats)
-# ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnshivers3&count_private=true&show_icons=true)
-
